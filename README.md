@@ -48,12 +48,13 @@ Figure 02  Encoder 8 * 3
 
 **PROGRAM**
 
-```
+
 Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
 Developed by: Ashwin Kumar A
-RegisterNumber: 212223040021
 
+RegisterNumber: 212223040021
+```
 module encoder(a0,a1,a2,d0,d1,d2,d3,d4,d5,d6,d7);
 input d0,d1,d2,d3,d4,d5,d6,d7;
 output a0,a1,a2;
